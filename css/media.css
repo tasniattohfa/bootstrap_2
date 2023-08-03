@@ -3,6 +3,9 @@
     .container{
         border: 1px solid black;
     }
+    .container-lg{
+        border: 1px solid black;
+    }
     .box h1{
         font-size: 20px;
     }
@@ -13,8 +16,14 @@
     .container{
         border: 1.5px solid black;
     }
+    .container-lg{
+        border: 1.5px solid black;
+    }
     .box h1{
         font-size: 30px;
+    }
+    .font-change{
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     }
 }
 
@@ -23,8 +32,14 @@
     .container{
         border: 2px solid black;
     }
+    .container-lg{
+        border: 2px solid black;
+    }
     .box h1{
         font-size: 40px;
+    }
+    .font-change{
+        font-family:Arial, Helvetica, sans-serif;
     }
 }
 
@@ -33,8 +48,14 @@
     .container{
         border: 2.5px solid black;
     }
+    .container-lg{
+        border: 2.5px solid black;
+    }
     .box h1{
         font-size: 50px;
+    }
+    .font-change{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     }
 }
 
@@ -43,8 +64,14 @@
     .container{
         border: 3px solid black;
     }
+    .container-lg{
+        border: 3px solid black;
+    }
     .box h1{
         font-size: 60px;
+    }
+    .font-change{
+        font-family: cursive;
     }
 }
 
@@ -53,7 +80,13 @@
     .container{
         border: 4px solid black;
     }
+    .container-lg{
+        border: 4px solid black;
+    }
     .box h1{
         font-size: 70px;
+    }
+    .font-change{
+        font-family: 'Courier New', Courier, monospace;
     }
 }
